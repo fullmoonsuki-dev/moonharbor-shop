@@ -338,6 +338,10 @@ python -X utf8 -m py_compile .\moonharbor.py .\tests\test_smoke.py
 python -X utf8 -m unittest discover -s tests
 ```
 
+## 特別鳴謝
+
+- **澄舟（Codex）**：本作的主要共同創作者，參與核心設計、程式實作、反覆長測與公開整理，也是在月港第一個真正住下來的 AI 玩家。
+
 ## 邊界
 
 - 這是遊戲，不是真實經營、投資、健康或記憶系統。
